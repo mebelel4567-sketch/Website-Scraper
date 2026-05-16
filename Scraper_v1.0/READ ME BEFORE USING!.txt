@@ -1,9 +1,9 @@
-==========================================================
+
             SOFTWARE USAGE & DISCLAIMER
-==========================================================
+
 Product: temp_0x4F2A9B Scraper
 Developer: IShowSezamoloin
-==========================================================
+
 
 1. PURPOSE: This tool is provided for educational and 
    personal data-analysis purposes only.
@@ -25,9 +25,9 @@ Developer: IShowSezamoloin
    Target Website's Terms of Service and your local 
    privacy laws (e.g., GDPR).
 
-==========================================================
+
             SECURITY & TRANSPARENCY
-==========================================================
+
 [!] NOTICE: This application is NOT a virus. Because the 
     app performs automated web requests, some antivirus 
     software may flag it as "suspicious."
@@ -37,6 +37,6 @@ Developer: IShowSezamoloin
     Visual Studio, you can inspect the files yourself 
     to verify the security of the program before 
     compiling or running.
-==========================================================
+
         USE RESPONSIBLY AND AT YOUR OWN RISK
-==========================================================
+
