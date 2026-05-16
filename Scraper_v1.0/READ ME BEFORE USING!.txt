@@ -1,0 +1,42 @@
+==========================================================
+            SOFTWARE USAGE & DISCLAIMER
+==========================================================
+Product: temp_0x4F2A9B Scraper
+Developer: IShowSezamoloin
+==========================================================
+
+1. PURPOSE: This tool is provided for educational and 
+   personal data-analysis purposes only.
+
+2. NO WARRANTY: This software is provided "as is" without 
+   warranty of any kind. The developer does not guarantee 
+   that the tool will work if the target website 
+   changes its structure.
+
+3. LIMITATION OF LIABILITY: In no event shall the 
+   developer be liable for any damages, including but 
+   not limited to:
+   - IP Bans or account suspensions on target websites.
+   - Misuse of extracted data.
+   - Any legal issues arising from the user's actions.
+
+4. RESPONSIBILITY: By running this software, you agree 
+   that you are solely responsible for following the 
+   Target Website's Terms of Service and your local 
+   privacy laws (e.g., GDPR).
+
+==========================================================
+            SECURITY & TRANSPARENCY
+==========================================================
+[!] NOTICE: This application is NOT a virus. Because the 
+    app performs automated web requests, some antivirus 
+    software may flag it as "suspicious."
+
+[!] OPEN SOURCE: To ensure full transparency, the source 
+    code is included / accessible. If you have 
+    Visual Studio, you can inspect the files yourself 
+    to verify the security of the program before 
+    compiling or running.
+==========================================================
+        USE RESPONSIBLY AND AT YOUR OWN RISK
+==========================================================

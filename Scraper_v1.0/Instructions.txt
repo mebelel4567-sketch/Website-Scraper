@@ -1,0 +1,55 @@
+Scraper_V1,0Public - Instructions
+
+PASSWORD: FORTISION
+
+HOW TO USE
+1. Enter the target URL in the URL field
+2. Select a scrape tier from the left panel
+3. Click "Set Path" to choose where to save files
+4. Click "Execute" to start
+
+TIERS EXPLAINED
+Tier 1 - Mirror    : Downloads basic assets (images, css, js)
+Tier 2 - Arch      : Same as Tier 1 but organizes into folders
+Tier 3 - Deep      : Crawls and downloads subpages too
+Tier 4 - Audit     : Checks SEO and meta tags
+Tier 5 - Data      : Extracts all links to a JSON file
+Tier 6 - Advanced  : Full diagnostic report of the site
+
+SETTINGS
+Request Delay    - Adds delay between requests (avoids bans)
+Timeout          - How long to wait for a response
+Randomize Agents - Rotates browser identity per request
+Auto-Open Folder - Opens output folder when done
+
+REQUIREMENTS (only if running from the .py source file)
+If you are running the exe file you do not need any of this.
+If you are running the raw Python script you will need:
+
+1. Download and install Python from:
+   https://www.python.org/downloads/
+   Make sure to check "Add Python to PATH" during install.
+
+2. Install the required libraries by opening CMD and running:
+   pip install requests beautifulsoup4 lxml
+
+WHAT IS SCRAPING FOR
+Web scraping is used for research, archiving websites,
+collecting public data, SEO analysis, and development testing.
+It is a common and legal practice when used on public websites
+that allow it. This tool was made to help people do exactly that.
+
+DISCLAIMER
+I am not responsible for any misuse of this software.
+If you use this tool to scrape websites without permission,
+violate terms of service, or cause harm in any way, that is
+your own unlawful decision. This app was made purely to help
+people with legitimate scraping tasks. Use it responsibly.
+
+AV WARNING
+Some antivirus engines may flag this exe.
+This is a false positive caused by PyInstaller.
+VirusTotal scan: [paste link here]
+
+VERSION: 1.0 Public
+MADE BY: IShowSezamoloin
